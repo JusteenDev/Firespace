@@ -1,0 +1,172 @@
+section{
+  border: 0.5px none white;
+  padding: 1px;
+}
+
+body{ overflow: hidden; }
+
+img{
+  margin-top: -22.5px;
+  width: 80%;
+  border: 1px none white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+::placeholder{
+  color: #e5e5e5;
+  font-size: 15px;
+}
+
+.cra-cp{
+  font-size: 13px;
+  color: #484848;
+  text-align: center;
+}
+
+.container{
+  margin-top: 0px;
+  display: block;
+  margin: auto;
+}
+
+input[type="email"],
+input[type="password"]{
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  outline: none;
+  background-color: #1e1e1e;
+  border: none;
+  padding: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 250px;
+  height: 40px;
+  color: white;
+}
+
+.login-btn-layout{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  width: 200px;
+  border: none;
+  height: 40px;
+  background-color: #786322;
+  color: white;
+  border-radius: 20px;
+}
+
+.sign-form{
+  text-align: center;
+  margin-top:30px;
+  padding: 10px;
+  background-color: #010101;
+  border-radius: 10px;
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.forgoten-cred{
+  color: white;
+  text-decoration: none;
+}
+
+.create-account-field{
+  border: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px;
+  margin-bottom: 10px;
+  width: 200px;
+  text-align: center;
+  height: 40px;
+  background-color: #786322;
+  color: white;
+  border-radius: 20px;
+}
+
+.login-google{
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border: none;
+  width: 200px;
+  text-align: center;
+  height: 40px;
+  background-color: #101010;
+  color: white;
+  border-radius: 20px;
+}
+
+.login-facebook{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border: none;
+  width: 200px;
+  text-align: center;
+  height: 40px;
+  background-color: #101010;
+  color: white;
+  border-radius: 20px;
+}
+
+.op{
+  text-align: center;
+  padding: 0px;
+}
+
+.options{
+  padding: 5px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+}
+.bi-envelope{
+  margin-bottom: -3px;
+  margin-left: -25px;
+  margin-right: 15px;
+}
+
+.bi-google{
+  margin-bottom: -3px;
+  margin-right: 3px;
+  margin-left: -15px;
+}
+
+.bi-facebook{
+  margin-bottom: -3px;
+  margin-right: 3px;
+}
+
+.optionDivider{
+  width: 300px;
+}
+
+#check-validation{
+  border: none;
+  padding: 5px;
+  height: 15px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 13px;
+  text-align: center;
+}

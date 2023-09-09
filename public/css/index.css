@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400&display=swap');
+
+:root{
+  --primary:#040D12;
+  --secondary:#183D3D;
+  --object:#5C8374;
+  --border:#93B1A6;
+  --font:'Ubuntu', sans-serif;
+}
+
+hr{
+  border: 0.5px solid #232323;
+}
+
+body{
+  background-color: black;
+  font-family: var(--font);
+  color: white;
+}
+
+button,
+input,
+select,
+option{
+  font-family: var(--font);
+}
